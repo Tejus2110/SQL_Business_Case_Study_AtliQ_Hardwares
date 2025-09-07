@@ -16,10 +16,10 @@ Geographic Dimensions: Region (APAC, EU, NA, LATAM) and markets (countries or co
 
 ## Key definitions:
 
-Gross Sales = Quantity × Gross Price.
-Net Sales = Gross Sales – Discounts.
-Net Profit = Net Sales – Manufacturing Costs.
-Fiscal Year = September through August.
+- Gross Sales = Quantity × Gross Price.
+- Net Sales = Gross Sales – Discounts.
+- Net Profit = Net Sales – Manufacturing Costs.
+- Fiscal Year = September through August.
 
 ## Analysis Performed
 
@@ -41,9 +41,13 @@ Implication: AtliQ should deepen relationships with key accounts by pushing high
 3. Product, Division, and Segment Insights
 
 Peripherals & Accessories (P&A) drive the most revenue; however, PCs grew the fastest year-over-year, especially Desktop PCs.
+
 Notebook and Business PCs generate the highest unit profitability.
+
 A large share of sales comes from Plus/Premium variants with high manufacturing-cost-to-price ratios, creating margin risk.
+
 Accessories expanded significantly, adding ~34 products between 2020–21.
+
 Implication: Portfolio balance is required: grow high-profit PCs and notebooks, manage reliance on premium SKUs, and continue expanding accessories to broaden the base.
 
 4. Channel Insights
