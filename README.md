@@ -7,12 +7,12 @@
 ## Dataset Description
 
 The dataset mimics a real-world ERP/transactional environment with multiple fact and dimension tables.
-`Sales Data`: Customer, product, market, region, channel, sold quantity, sales amount, fiscal year (Sept–Aug), and gross unit price.
-`Manufacturing Cost Data`: Per-unit product costs tied to fiscal years.
-`Gross Price Data`: Pre-discount gross prices per product.
-`Discount Data`: Pre-invoice discounts at customer and fiscal year level, including discount bands.
-`Product Hierarchies`: Division (PC, Peripherals & Accessories, Network & Storage), segment, and standardized variant (Standard, Plus, Premium).
-`Geographic Dimensions`: Region (APAC, EU, NA, LATAM) and markets (countries or country groups).
+- `Sales Data`: Customer, product, market, region, channel, sold quantity, sales amount, fiscal year (Sept–Aug), and gross unit price.
+- `Manufacturing Cost Data`: Per-unit product costs tied to fiscal years.
+- `Gross Price Data`: Pre-discount gross prices per product.
+- `Discount Data`: Pre-invoice discounts at customer and fiscal year level, including discount bands.
+- `Product Hierarchies`: Division (PC, Peripherals & Accessories, Network & Storage), segment, and standardized variant (Standard, Plus, Premium).
+- `Geographic Dimensions`: Region (APAC, EU, NA, LATAM) and markets (countries or country groups).
 
 ## Key definitions:
 
