@@ -25,48 +25,46 @@ Geographic Dimensions: Region (APAC, EU, NA, LATAM) and markets (countries or co
 
 1. Regional and Market Insights
 
-APAC is the largest revenue region, with India, South Korea, and the Philippines as top markets.
-EU posted the strongest year-over-year growth (~256%), while LATAM lagged (~42%) despite heavy discounting.
-North America is anchored by the USA as the largest single-country market.
-Retail dominates sales across all regions, contributing ~73% of revenue.
-Implication: Growth should be prioritized in APAC and EU, while LATAM requires a re-evaluated strategy as discounts have not stimulated demand.
+- APAC is the largest revenue region, with India, South Korea, and the Philippines as top markets.
+- EU posted the strongest year-over-year growth (~256%), while LATAM lagged (~42%) despite heavy discounting.
+- North America is anchored by the USA as the largest single-country market.
+- Retail dominates sales across all regions, contributing ~73% of revenue.
+- Implication: Growth should be prioritized in APAC and EU, while LATAM requires a re-evaluated strategy as discounts have not stimulated demand.
 
 2. Customer Insights
 
-Top 10 customers (e.g., Amazon, AtliQ eStore, Flipkart) contribute ~50% of total revenue.
-Bulk of unit volumes are in low-margin products, but profitability is concentrated in high- and medium-margin items.
-Notebooks deliver the highest per-unit profitability, despite lower sales volumes.
-Implication: AtliQ should deepen relationships with key accounts by pushing high-margin products, while also diversifying beyond the top 10 customers to mitigate concentration risk.
+- Top 10 customers (e.g., Amazon, AtliQ eStore, Flipkart) contribute ~50% of total revenue.
+- Bulk of unit volumes are in low-margin products, but profitability is concentrated in high- and medium-margin items.
+- Notebooks deliver the highest per-unit profitability, despite lower sales volumes.
+- Implication: AtliQ should deepen relationships with key accounts by pushing high-margin products, while also diversifying beyond the top 10 customers to mitigate concentration risk.
 
 3. Product, Division, and Segment Insights
 
-Peripherals & Accessories (P&A) drive the most revenue; however, PCs grew the fastest year-over-year, especially Desktop PCs.
-
-Notebook and Business PCs generate the highest unit profitability.
-
-A large share of sales comes from Plus/Premium variants with high manufacturing-cost-to-price ratios, creating margin risk.
-
-Accessories expanded significantly, adding ~34 products between 2020–21.
-
-Implication: Portfolio balance is required: grow high-profit PCs and notebooks, manage reliance on premium SKUs, and continue expanding accessories to broaden the base.
+- Peripherals & Accessories (P&A) drive the most revenue; however, PCs grew the fastest year-over-year, especially Desktop PCs.
+- Notebook and Business PCs generate the highest unit profitability.
+- A large share of sales comes from Plus/Premium variants with high manufacturing-cost-to-price ratios, creating margin risk.
+- Accessories expanded significantly, adding ~34 products between 2020–21.
+- Implication: Portfolio balance is required: grow high-profit PCs and notebooks, manage reliance on premium SKUs, and continue expanding accessories to broaden the base.
 
 4. Channel Insights
 
-Retail accounts for ~73% of total sales and showed the strongest growth (~221% YoY).
-Distributor channel also expanded strongly (~211% YoY), while Direct (online) grew modestly (~167% YoY).
-Discounting levels differ slightly across channels, with Direct showing lower average discounts.
-Implication: Retail and Distributor channels remain strategic priorities, though Direct can be selectively grown to capture long-term e-commerce potential.
+- Retail accounts for ~73% of total sales and showed the strongest growth (~221% YoY).
+- Distributor channel also expanded strongly (~211% YoY), while Direct (online) grew modestly (~167% YoY).
+- Discounting levels differ slightly across channels, with Direct showing lower average discounts.
+- Implication: Retail and Distributor channels remain strategic priorities, though Direct can be selectively grown to capture long-term e-commerce potential.
 
 5. Discount Insights
-Discounts are nearly uniform across divisions, segments, and product variants (~23%).
-LATAM customers receive the highest discounts yet show the weakest growth.
-Discounts are most aggressive on low-margin products, where returns are limited.
-Implication: Discounting strategy should be rebalanced—reduce unnecessary discounts in low-margin categories and LATAM, while targeting incentives toward medium/high-margin products where profitability is stronger.
 
-6. Seasonal Insights
-All quarters in FY2021 grew versus FY2020, but demand peaked in Q1 and declined steadily by Q4.
-Growth slowed quarter-over-quarter, suggesting a need for demand-smoothing initiatives in later quarters.
-Implication: Inventory and marketing should be aligned with peak Q1 demand, while targeted campaigns or product launches should support weaker Q3–Q4 sales.
+- Discounts are nearly uniform across divisions, segments, and product variants (~23%).
+- LATAM customers receive the highest discounts yet show the weakest growth.
+- Discounts are most aggressive on low-margin products, where returns are limited.
+- Implication: Discounting strategy should be rebalanced—reduce unnecessary discounts in low-margin categories and LATAM, while targeting incentives toward medium/high-margin products where profitability is stronger.
+
+7. Seasonal Insights
+   
+- All quarters in FY2021 grew versus FY2020, but demand peaked in Q1 and declined steadily by Q4.
+- Growth slowed quarter-over-quarter, suggesting a need for demand-smoothing initiatives in later quarters.
+- Implication: Inventory and marketing should be aligned with peak Q1 demand, while targeted campaigns or product launches should support weaker Q3–Q4 sales.
 
 ## Strategic Recommendations
 
