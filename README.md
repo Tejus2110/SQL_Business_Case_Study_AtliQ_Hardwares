@@ -1,4 +1,4 @@
-# SQL_Business_Case_Study_AtliQ_Hardwares
+# SQL Business Case Study AtliQ Hardwares
 
 ## Project Overview
 - This project presents an in-depth SQL-driven analysis of AtliQ Hardwares, a fictional global computer hardware company. The objective was to extract actionable business insights from transactional and cost data using SQL, validate outputs through Excel, and present findings in a structured management presentation.
