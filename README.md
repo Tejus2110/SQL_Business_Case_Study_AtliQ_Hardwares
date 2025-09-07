@@ -1,18 +1,18 @@
 # SQL_Business_Case_Study_AtliQ_Hardwares
 
 ## Project Overview
-This project presents an in-depth SQL-driven analysis of AtliQ Hardwares, a fictional global computer hardware company. The objective was to extract actionable business insights from transactional and cost data using SQL, validate outputs through Excel, and present findings in a structured management presentation.
-The analysis uncovers key regional, customer, product, channel, and discount trends and translates them into strategic recommendations for business decision-making.
+- This project presents an in-depth SQL-driven analysis of AtliQ Hardwares, a fictional global computer hardware company. The objective was to extract actionable business insights from transactional and cost data using SQL, validate outputs through Excel, and present findings in a structured management presentation.
+- The analysis uncovers key regional, customer, product, channel, and discount trends and translates them into strategic recommendations for business decision-making.
 
 ## Dataset Description
 
 The dataset mimics a real-world ERP/transactional environment with multiple fact and dimension tables.
-Sales Data: Customer, product, market, region, channel, sold quantity, sales amount, fiscal year (Sept–Aug), and gross unit price.
-Manufacturing Cost Data: Per-unit product costs tied to fiscal years.
-Gross Price Data: Pre-discount gross prices per product.
-Discount Data: Pre-invoice discounts at customer and fiscal year level, including discount bands.
-Product Hierarchies: Division (PC, Peripherals & Accessories, Network & Storage), segment, and standardized variant (Standard, Plus, Premium).
-Geographic Dimensions: Region (APAC, EU, NA, LATAM) and markets (countries or country groups).
+`Sales Data`: Customer, product, market, region, channel, sold quantity, sales amount, fiscal year (Sept–Aug), and gross unit price.
+`Manufacturing Cost Data`: Per-unit product costs tied to fiscal years.
+`Gross Price Data`: Pre-discount gross prices per product.
+`Discount Data`: Pre-invoice discounts at customer and fiscal year level, including discount bands.
+`Product Hierarchies`: Division (PC, Peripherals & Accessories, Network & Storage), segment, and standardized variant (Standard, Plus, Premium).
+`Geographic Dimensions`: Region (APAC, EU, NA, LATAM) and markets (countries or country groups).
 
 ## Key definitions:
 
@@ -68,20 +68,20 @@ Geographic Dimensions: Region (APAC, EU, NA, LATAM) and markets (countries or co
 
 ## Strategic Recommendations
 
-Invest in High-Growth Regions: Prioritize EU and APAC for further resource allocation and market expansion.
-Optimize Customer Portfolio: Push high-margin products to top accounts while diversifying customer base.
-Refine Product Mix: Emphasize PCs and laptops for profitability, expand accessories, and manage premium SKU reliance.
-Strengthen Retail & Distributor Channels: Continue supporting these dominant channels with co-promotions and partner incentives.
-Re-evaluate LATAM Strategy: Tailor product fit and reduce ineffective discounts.
-Seasonal Planning: Build supply ahead of Q1 peaks and strengthen late-year campaigns.
-Profitability Monitoring: Establish dashboards tracking net profit by region, customer, and product to guide future decisions.
+- Invest in High-Growth Regions: Prioritize EU and APAC for further resource allocation and market expansion.
+- Optimize Customer Portfolio: Push high-margin products to top accounts while diversifying customer base.
+- Refine Product Mix: Emphasize PCs and laptops for profitability, expand accessories, and manage premium SKU reliance.
+- Strengthen Retail & Distributor Channels: Continue supporting these dominant channels with co-promotions and partner incentives.
+- Re-evaluate LATAM Strategy: Tailor product fit and reduce ineffective discounts.
+- Seasonal Planning: Build supply ahead of Q1 peaks and strengthen late-year campaigns.
+- Profitability Monitoring: Establish dashboards tracking net profit by region, customer, and product to guide future decisions.
 
 ## Tools and Workflow
 
-SQL: Data extraction, joins, aggregations, CTEs, window functions, profitability calculations.
-Excel: Validation, pivot tables, and exploratory visualization.
-PresentationAI: Structured presentation of insights and recommendations for management.
-Workflow followed: SQL → Excel validation → Charting → Business presentation.
+- SQL: Data extraction, joins, aggregations, CTEs, window functions, profitability calculations.
+- Excel: Validation, pivot tables, and exploratory visualization.
+- PresentationAI: Structured presentation of insights and recommendations for management.
+- Workflow followed: SQL → Excel validation → Charting → Business presentation.
 
 ## Deliverables
 
